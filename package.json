@@ -1,0 +1,12 @@
+{
+  "name": "knip-unused-package-exports-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node packages/app/src/index.js",
+    "check": "knip --no-progress"
+  },
+  "devDependencies": {
+    "knip": "6.41.0"
+  }
+}

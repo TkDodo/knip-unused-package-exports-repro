@@ -1,0 +1,10 @@
+{
+  "name": "@repro/messages-export",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./create-message": "./src/create-message.js",
+    "./format-label": "./src/format-label.js"
+  }
+}

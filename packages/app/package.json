@@ -1,0 +1,10 @@
+{
+  "name": "@repro/app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@repro/messages-barrel": "workspace:*",
+    "@repro/messages-export": "workspace:*"
+  }
+}

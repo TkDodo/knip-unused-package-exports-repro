@@ -1,0 +1,8 @@
+{
+  "includeEntryExports": true,
+  "workspaces": {
+    "packages/app": {
+      "entry": ["src/index.js"]
+    }
+  }
+}
